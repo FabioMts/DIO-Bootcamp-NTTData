@@ -1,2 +1,2 @@
-# DIO-Bootcamp-NTTData
-Repositório com o intuito de colocar os estudos/exercícios do bootcamp de C# da NTTData
+# DIO-Bootcamp
+Repositório com o intuito de colocar os estudos/exercícios dos bootcamp da Digital Innovation One.
